@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>Untitled</title>
+<!--Adobe Edge Runtime-->
+
+	<script>
+	var custHtmlRoot=""; 
+	var script = document.createElement('script'); 
+	script.type= "text/javascript";
+script.src = custHtmlRoot+"edge_includes/edge.6.0.0.min.js";
+	var head = document.getElementsByTagName('head')[0], done=false;
+	script.onload = script.onreadystatechange = function(){
+		if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+			done=true;
+			var opts ={
+    scaleToFit: "both",
+    centerStage: "both",
+    minW: "0px",
+    maxW: "undefined",
+    width: "1024px",
+    height: "637px"
+};
+			opts.htmlRoot =custHtmlRoot;
+			AdobeEdge.loadComposition('Pearls%20AV_Pantalla5', 'EDGE-27658786', opts,
+			{"style":{"${symbolSelector}":{"isStage":"true","rect":["undefined","undefined","1024px","637px"],"fill":["rgba(255,255,255,1)"]}},"dom":[{"rect":["452","259","120px","120px","auto","auto"],"id":"preloader43","fill":["rgba(0,0,0,0)","images/preloader43.gif","0px","0px"],"type":"image","tag":"img"}]}, {"dom":{}});		
+			script.onload = script.onreadystatechange = null;
+			head.removeChild(script);
+		}
+	};
+	head.appendChild(script);
+	</script>
+	
+	    <style>
+        .edgeLoad-EDGE-27658786 { visibility:hidden; }
+    </style>
+
+<!--Adobe Edge Runtime End-->
+
+</head>
+<body style="margin:0;padding:0;">
+	<div id="Stage" class="EDGE-27658786">
+	</div>
+</body>
+</html>

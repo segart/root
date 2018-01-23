@@ -1,0 +1,11 @@
+
+(function(compId){var _=null,y=true,n=false,x1='6.0.0',x3='6.0.0.400',x2='5.0.0',x5='rgba(0,0,0,0)',lf='left',g='image',x4='both',e15='${Empaque3}',e14='${Texto2_Material3}',b='block',o='opacity',e13='${Texto1_Bibliografia3}',x11='rgba(255,255,255,1)',tp='top',m='rect',x9='rgba(192,192,192,0.00)',d='display',e12='${Pasted}',i='none';var g10='Pasted2.svg',g7='Texto1_Bibliografia.svg',g8='Texto2_Material.svg',g6='Empaque.png';var im='images/',aud='media/',vid='media/',js='js/',fonts={},opts={'gAudioPreloadPreference':'auto','gVideoPreloadPreference':'auto'},resources=[],scripts=[],symbols={"stage":{v:x1,mv:x2,b:x3,stf:x4,cg:x4,rI:n,cn:{dom:[{id:'Empaque3',t:g,r:['262px','70px','500px','388px','auto','auto'],o:'0',f:[x5,im+g6,'0px','0px']},{id:'Texto1_Bibliografia3',t:g,r:['-51px','467px','903px','158px','auto','auto'],o:'0',f:[x5,im+g7,'0px','0px']},{id:'Texto2_Material3',t:g,r:['977px','232px','23px','269px','auto','auto'],o:'0',f:[x5,im+g8,'0px','0px']},{id:'Rectangle3',t:m,r:['0px','2px','1024px','637px','auto','auto'],f:[x9],s:[0,"rgb(0, 0, 0)",i]},{id:'Pasted',v:i,t:g,r:['16px','298px','54px','58px','auto','auto'],f:[x5,im+g10,'0px','0px'],tf:[[],[],[],['-1']]}],style:{'${Stage}':{isStage:true,r:['null','null','1024px','637px','auto','auto'],overflow:'hidden',f:[x11]}}},tt:{d:7946,a:y,l:{"fin":7946},data:[["eid26",d,6250,0,"linear",e12,i,i],["eid27",d,7946,0,"linear",e12,i,b],["eid10",o,2750,2621,"linear",e13,'0','1'],["eid18",tp,6250,1500,"linear",e14,'232px','172px'],["eid19",o,6250,1500,"linear",e14,'0','1'],["eid9",lf,2750,2621,"linear",e13,'-51px','100px'],["eid12",lf,5371,1781,"linear",e13,'100px','48px'],["eid25",lf,6250,0,"linear",e14,'977px','977px'],["eid3",o,0,2750,"linear",e15,'0','1']]}}};AdobeEdge.registerCompositionDefn(compId,symbols,fonts,scripts,resources,opts);})("EDGE-30556005");
+(function($,Edge,compId){var Composition=Edge.Composition,Symbol=Edge.Symbol;Edge.registerEventBinding(compId,function($){
+//Edge symbol: 'stage'
+(function(symbolName){Symbol.bindElementAction(compId,symbolName,"${Pasted}","click",function(sym,e){window.open("Pearls AV_Pantalla6.html","_self");});
+//Edge binding end
+Symbol.bindElementAction(compId,symbolName,"${Rectangle3}","click",function(sym,e){sym.play("fin");});
+//Edge binding end
+})("stage");
+//Edge symbol end:'stage'
+})})(AdobeEdge.$,AdobeEdge,"EDGE-30556005");
