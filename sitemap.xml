@@ -578,11 +578,7 @@
   </url>
   <url>
     <loc>http://segart.com/borrar_farmasa/pearls_resumen.html</loc>
-<<<<<<< Updated upstream
-    <lastmod>2017-11-17</lastmod>
-=======
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -833,7 +829,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
-<<<<<<< Updated upstream
     </image:image>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
@@ -842,16 +837,6 @@
       <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
     </image:image>
     <image:image>
-=======
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
-    </image:image>
-    <image:image>
->>>>>>> Stashed changes
       <image:loc>http://segart.com/borrar_farmasa/images/mesa%20de%20trabajo%201%20copia%209.png</image:loc>
     </image:image>
   </url>
@@ -920,28 +905,16 @@
   </url>
   <url>
     <loc>http://segart.com/borrar_farmasa/vintanco_07.html</loc>
-<<<<<<< Updated upstream
-    <lastmod>2018-01-23</lastmod>
-=======
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
-<<<<<<< Updated upstream
     </image:image>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
     </image:image>
     <image:image>
-=======
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
->>>>>>> Stashed changes
       <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
     </image:image>
   </url>
@@ -955,7 +928,6 @@
     </image:image>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-<<<<<<< Updated upstream
     </image:image>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
@@ -966,7 +938,7 @@
   </url>
   <url>
     <loc>http://segart.com/borrar_farmasa/vintanco_01.html</loc>
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -981,80 +953,22 @@
   </url>
   <url>
     <loc>http://segart.com/borrar_farmasa/vitanco_resumen.html</loc>
-    <lastmod>2017-11-17</lastmod>
-=======
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/mesa%20de%20trabajo%201%20copia%205.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://segart.com/borrar_farmasa/vintanco_01.html</loc>
-    <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
-<<<<<<< Updated upstream
-=======
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
->>>>>>> Stashed changes
-    </image:image>
-  </url>
-  <url>
-    <loc>http://segart.com/borrar_farmasa/vitanco_resumen.html</loc>
     <lastmod>2018-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-<<<<<<< Updated upstream
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
-=======
       <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
->>>>>>> Stashed changes
+    </image:image>
+    <image:image>
+      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://segart.com/borrar_farmasa/vintanco_02.html</loc>
-    <lastmod>2018-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-<<<<<<< Updated upstream
-      <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
-=======
->>>>>>> Stashed changes
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_03.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
-    <loc>http://segart.com/borrar_farmasa/vintanco_02.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1068,13 +982,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_04.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_03.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1088,13 +997,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_05.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_04.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1108,13 +1012,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_06.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_05.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1128,13 +1027,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/prosgutt_02c.html</loc>
-    <lastmod>2017-11-17</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_06.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1148,13 +1042,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_08.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/prosgutt_02c.html</loc>
     <lastmod>2017-11-17</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1168,13 +1057,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/vintanco_09.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_08.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1188,13 +1072,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/prosgutt_02b.html</loc>
-    <lastmod>2017-11-17</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/vintanco_09.html</loc>
     <lastmod>2018-01-24</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1208,13 +1087,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/pearls_03.html</loc>
-    <lastmod>2018-01-23</lastmod>
-=======
     <loc>http://segart.com/borrar_farmasa/prosgutt_02b.html</loc>
     <lastmod>2017-11-17</lastmod>
->>>>>>> Stashed changes
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1228,26 +1102,7 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/pearls_02.html</loc>
-    <lastmod>2018-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/bg_menu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://segart.com/borrar_farmasa/images/menu2.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://segart.com/borrar_farmasa/pearls_04.html</loc>
-=======
     <loc>http://segart.com/borrar_farmasa/pearls_03.html</loc>
->>>>>>> Stashed changes
     <lastmod>2018-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1262,12 +1117,8 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-    <loc>http://segart.com/borrar_farmasa/pearls_05.html</loc>
-=======
     <loc>http://segart.com/borrar_farmasa/pearls_02.html</loc>
->>>>>>> Stashed changes
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1281,8 +1132,6 @@
     </image:image>
   </url>
   <url>
-<<<<<<< Updated upstream
-=======
     <loc>http://segart.com/borrar_farmasa/pearls_04.html</loc>
     <lastmod>2018-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1313,7 +1162,6 @@
     </image:image>
   </url>
   <url>
->>>>>>> Stashed changes
     <loc>http://segart.com/borrar_farmasa/assets/pearls.html</loc>
     <lastmod>2017-07-11</lastmod>
     <changefreq>weekly</changefreq>
